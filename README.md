@@ -1,2 +1,4 @@
-# hefri-git-test
-education
+#Python
+
+file latihan dasar-dasar python saya
+
